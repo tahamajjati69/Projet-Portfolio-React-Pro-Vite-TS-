@@ -122,13 +122,7 @@ src/
 
 ---
 
-## 🚀 Déploiement (Vercel)
 
-Le projet est déployé sur **Vercel** :
-
-🔗 https://mon-portfolio-projet.vercel.app/
-
----
 
 ## 🛠️ Technologies utilisées
 

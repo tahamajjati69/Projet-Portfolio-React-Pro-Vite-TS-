@@ -11,10 +11,10 @@ export default function Home() {
   return (
     <section>
       <Helmet>
-        <title>{profile.name} — Portfolio Développeuse Full Stack</title>
+        <title>{profile.name} — Portfolio Développeur Full Stack</title>
         <meta
           name="description"
-          content="Portfolio de MAJJATI MIHAMED TAHA — Développeuse Full ."
+          content="Portfolio de MAJJATI MIHAMED TAHA — Développeur Full ."
         />
       </Helmet>
 

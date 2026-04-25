@@ -135,6 +135,13 @@ src/
 
 ---
 
+## 🚀 Déploiement (Vercel)
+
+Le projet est déployé sur **Vercel** :
+
+https://projetportforio1.vercel.app/
+
+
 ## 🎥 Démonstration:
 
 

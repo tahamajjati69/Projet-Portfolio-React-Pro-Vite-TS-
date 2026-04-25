@@ -1,4 +1,4 @@
-# Portfolio NOUHAYLA SABIQ
+# Portfolio MAJJATI MOHAMED TAHA
 
 Portfolio professionnel React + Vite + TypeScript + Tailwind CSS.
 
@@ -54,13 +54,12 @@ npm run preview
 ```bash
 git init
 git add .
-git commit -m "feat: portfolio NOUHAYLA SABIQ v1"
+git commit -m "feat: portfolio "
 git branch -M main
-git remote add origin https://github.com/TON_USER/mon-portfolio.git
+git remote add origin https://github.com/TON_USER/portfolio1.git
 git push -u origin main
 ```
 
-Puis sur [vercel.com](https://vercel.com) :
 1. New Project → Importer ton repo GitHub
 2. Framework: **Vite** (auto-détecté)
 3. Build Command: `npm run build`
@@ -91,13 +90,76 @@ src/
     └── Contact.tsx
 ```
 
-## 🎨 Certifications intégrées
+## ⚙️ Fonctionnalités
 
-| Certification | Score | Date |
-|---|---|---|
-| Fondamentaux Kotlin | 78% | 28 fév 2026 |
-| PHP 7 Architecture Multicouche | 92% | 4 mars 2026 |
+### 🏠 Home
+- Page d’accueil avec présentation générale
+- Navigation vers les différentes sections
 
-## 📧 Formulaire Contact
+### 📁 Projects
+- Affichage des projets sous forme de cartes
+- Description et liens (demo / code)
 
-Pour activer le formulaire, créer un compte [Formspree](https://formspree.io) et remplacer `XXXX` dans `src/pages/Contact.tsx` par ton ID.
+### 🎓 Education
+- Timeline des formations
+- Affichage des diplômes et établissements
+
+### 📜 Certifications
+- Liste des certifications
+- Fonction de **filtrage / recherche**
+
+### 📬 Contact
+- Formulaire de contact (nom, email, message)
+- Validation basique côté frontend
+
+---
+
+## 🎨 Interface
+- Design moderne inspiré des interfaces minimalistes
+- Utilisation de Tailwind CSS
+- Layout responsive (mobile / desktop)
+- Mode sombre basé sur les classes Tailwind
+
+---
+
+
+
+## 🛠️ Technologies utilisées
+
+- React
+- TypeScript
+- Vite
+- React Router
+- Tailwind CSS
+- React Helmet Async
+
+---
+
+## 🎥 Démonstration:
+
+
+
+https://github.com/user-attachments/assets/7c03affc-a239-4f39-88c1-54c591eb67b1
+
+
+
+
+
+## 💡 Concepts pratiqués
+
+- Architecture modulaire React
+- Routing multi-pages
+- State management avec hooks
+- Composition de composants
+- Styling moderne avec Tailwind
+- Organisation d’un projet frontend complet
+
+---
+
+## 🧑‍💻 Auteur
+
+👤 **MAJJATI MOHAMED TAHA**  
+⚛️ Projet React – TP Portfolio 
+🎓 ENS Marrakech – Département Informatique  
+📅 24 April 2026
+

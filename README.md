@@ -54,9 +54,9 @@ npm run preview
 ```bash
 git init
 git add .
-git commit -m "feat: portfolio NOUHAYLA SABIQ v1"
+git commit -m "feat: portfolio "
 git branch -M main
-git remote add origin https://github.com/TON_USER/mon-portfolio.git
+git remote add origin https://github.com/TON_USER/portfolio1.git
 git push -u origin main
 ```
 
